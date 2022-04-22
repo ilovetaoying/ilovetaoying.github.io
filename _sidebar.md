@@ -1,1 +1,1 @@
-+ [两小时熟悉Markdown](/Markdown_Study)
++ [两小时熟悉Markdown](/Markdown_Study/)
