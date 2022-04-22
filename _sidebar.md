@@ -1,1 +1,1 @@
-* [Markdown](https://ilovetaoying.github.io/#/docs/Markdown_Study/)
+* [Markdown](/docs/Markdown_Study/)
