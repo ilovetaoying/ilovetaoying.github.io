@@ -24,10 +24,6 @@ Markdown提供了两种标题h1和h2
     ad
     =
 
-效果：
-
-ad
-=
 
 ## 块引用 ##
 blockquote标签，或者使用引号按钮
@@ -116,17 +112,19 @@ Markdown支持两种超链接的样式： "行内链接" 和 "引用链接"
 ## 图片 ##
 图片链接很像超链接"行内链接"的写法。
 
+    
     > 语法：
-    > ![替换文字](/img/logo.png#pic_left "标题")
-
+    > ![替换文字](/imgs/logo.png #pic_left "标题")
+    
+    
 语法：
-![logo](/img/logo.png "Markdown笔记")
+![logo](/pics/logo.png "Markdown笔记")
 
 如果需要调整大小位置的，可以使用html代码。
 
 	<img src="/img/logo.png" width="20%" align="right">
 
-<img src="/img/logo.png" width="20%" align="right">
+<img src="/pics/logo.png" width="20%" align="right">
 
 <br>
 <br>
