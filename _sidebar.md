@@ -1,1 +1,1 @@
-* [Markdown](#/docs/Markdown_Study/index.html）
+* [Markdown](dosc/Markdown_Study/index.html)
