@@ -1,1 +1,1 @@
-* [Markdown](/docs/Markdown_Study/)
+* [Markdown速学](/docs/Markdown_Study/)
