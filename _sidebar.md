@@ -1,1 +1,1 @@
-* [Markdown](/#/docs/Markdown_Study)
+* [Markdown](http://www.baidu.com)
