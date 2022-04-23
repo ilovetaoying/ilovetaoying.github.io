@@ -1,1 +1,1 @@
-+ <a href="https://ilovetaoying.github.io/#/Markdown_Study/">两小时熟悉Markdown</a>
++ [两小时熟悉Markdown](/Markdown_Study/)
