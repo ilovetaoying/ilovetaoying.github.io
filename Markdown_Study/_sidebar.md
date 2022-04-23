@@ -1,4 +1,5 @@
 * [Markdown基础语法](Markdown_Study/01_Markdown基础.md)
 * [Markdown语法详解](Markdown_Study/02_Markdown语法详解.md)
 * [Docsify加强语法](Markdown_Study/03_Docsify文档助手.md)
+* [mermaid图表语法](Markdown_Study/../04_mermaid图表语法.md)
 * [回到首页](/)
