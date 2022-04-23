@@ -11,6 +11,8 @@
 <body>
   <div id="app"></div>
   <script>
+    var num = 0;
+    mermaid.initialize({ startOnLoad: false });
     window.$docsify = {
       coverpage: true,
       coverpage: 'cover.md',
@@ -20,6 +22,18 @@
       name: 'Markdown语法',
       logo: '/pics/logo.png',
       repo: 'https://github.com/ilovetaoying/ilovetaoying.github.io',
+      markdown: {
+        renderer: {
+          code: function(code, lang) {
+            if (lang === "mermaid") {
+              return (
+                '<div class="mermaid">' + mermaid.render('mermaid-svg-' + num++, code) + "</div>"
+              );
+            }
+            return this.origin.code.apply(this, arguments);
+          }
+        }
+      }
     }
   </script>
   <!-- Docsify v4 -->
