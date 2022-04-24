@@ -1,10 +1,15 @@
 # Adobe Premier Pro 基础教学 - 第1课
 
-![pr\_logo](/pics/01_00_logo.png)
+![pr\_logo](/pics/01_00_logo.png "")
 
 ## 本课目标：
 
+!> [点击视频教学学习本课](https://v.youku.com/v_show/id_XNTg2NDg3NDc2NA==.html)
+
 !> 熟悉软件的核心基本功能，能利用现成的视频和音频素材能够剪辑出一个准专业级的影片。
+> 系统环境： Adobe Premier Pro 2020
+>
+> 素材地址：[练习文档下载](https://share.weiyun.com/55ro731)
 
 ## 本节课主题
 
@@ -23,10 +28,6 @@
 *   [色调调整](#色调调整)
 
 *   [影片输出](#影片输出)
-
-> 系统环境： Adobe Premier Pro 2020
->
-> 素材地址：[练习文档下载](https://share.weiyun.com/55ro731)
 
 ## 熟悉界面
 
