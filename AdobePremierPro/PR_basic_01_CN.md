@@ -189,7 +189,7 @@
 
 干的棒！现在让我们欣赏我们第一个PR大片吧^\_^
 
-<a href = "https://www.bilibili.com/video/BV1kL4y1V7TJ/"><img src="/pics/成片.png"><a>
+<a href = "https://www.bilibili.com/video/BV1kL4y1V7TJ/"><img src="#/AdobePremierPro/pics/成片.png"><a>
 
 ?> 课后作业:
 
