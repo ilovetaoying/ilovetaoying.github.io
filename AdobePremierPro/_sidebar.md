@@ -1,2 +1,2 @@
-* [Adobe Premier Pro 基础教学 - 第一课](AdobePremierPro/PR_basic_01_CN.md)
+* [第一课 - 专业视频剪辑精髓操作](AdobePremierPro/PR_basic_01_CN.md)
 * [回到首页](/)
